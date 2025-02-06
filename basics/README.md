@@ -11,3 +11,7 @@
 ./5-listfilesdigitonly = ls -la --numeric-uid-gid = Display current directory contents, long format, with user and group IDs displayed numerically, and hidden files (starting with .)
 
 ./6-firstdirectory = mkdir /tmp/my_first_directory = creates a directory named my_first_directory in the /tmp/ directory.
+
+./7-movethatfile = mv /tmp/betty  /tmp/my_first_directory = Move the file betty from /tmp/ to /tmp/my_first_directory.
+
+
