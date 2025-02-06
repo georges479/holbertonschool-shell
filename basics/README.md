@@ -8,4 +8,4 @@
 
 ./4-listmorefiles = ls -la = Display current directory contents, including hidden files (starting with .). Use the long format.
 
-./5-listfilesdigitonly = ls -la = Display current directory contents, long format, with user and group IDs displayed numerically, and hidden files (starting with .)
+./5-listfilesdigitonly = ls -la --numeric-uid-gid = Display current directory contents, long format, with user and group IDs displayed numerically, and hidden files (starting with .)
