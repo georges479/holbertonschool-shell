@@ -4,4 +4,8 @@
 
 ./2-bring_me_home = cd ~ = changes the working directory to the user’s home directory.
 
-3-listfiles = ls -l = Display current directory contents in a long format
+./3-listfiles = ls -l = Display current directory contents in a long format
+
+./4-listmorefiles = ls -la = Display current directory contents, including hidden files (starting with .). Use the long format.
+
+./5-listfilesdigitonly = ls -la = Display current directory contents, long format, with user and group IDs displayed numerically, and hidden files (starting with .)
